@@ -1,0 +1,6 @@
+[submodule "bundle/vim-ps1"]
+	path = bundle/vim-ps1
+	url = https://github.com/PProvost/vim-ps1
+[submodule "bundle/puppet"]
+	path = bundle/puppet
+	url = https://github.com/rodjek/vim-puppet
