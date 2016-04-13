@@ -4,3 +4,6 @@
 [submodule "bundle/puppet"]
 	path = bundle/puppet
 	url = https://github.com/rodjek/vim-puppet
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
